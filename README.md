@@ -18,4 +18,4 @@ Wave Focusing Beam Forming.
 
 ## Image Of Cyst Phantom
 
-![](Image_of_cyst_phantom.png)
+![](Image_CystPhantom.png)
